@@ -16,7 +16,7 @@ My name is Patrick McGrath. I recently finished all my course work for my BSc in
 
 ## Table of Contents
 
-Each directory corresponds to an individual course (or *Leetcode&#32;*submissions). In this table of contents, items I will like to highlight are **listed in bold.**
+Each directory corresponds to an individual course (or *Leetcode&#32;*submissions). In this table of contents, items I will like to highlight are ***listed in bold italics*.**
 
 ### 2023\_2\_CSCI\_260\_Data\_Structures
 
@@ -55,11 +55,11 @@ Each directory corresponds to an individual course (or *Leetcode&#32;*submission
 
 - Assignment\_7\_Package\_Ordering\_Database\_Program\_in\_Cpp\_and\_Oracle\_SQL
 - Assignment\_8\_Package\_Ordering\_Database\_Summary\_Report\_Program\_in\_Cpp\_and\_Oracle\_SQL
-- **Term\_Project\_Rideshare\_Database\_Program\_in\_Cpp\_and\_Oracle\_SQL**
+- ***Term\_Project\_Rideshare\_Database\_Program\_in\_Cpp\_and\_Oracle\_SQL***
 
 ### 2025\_1\_CSCI\_439\_Advanced\_Topics\_in\_Programming
 
-- **Term\_Project\_Sittie-Typpie\_Reader\_Writer\_Program**
+- ***Term\_Project\_Sittie-Typpie\_Reader\_Writer\_Program***
 
 ### 2025\_1\_CSCI\_460\_Networks\_and\_Communications
 
@@ -70,7 +70,7 @@ Each directory corresponds to an individual course (or *Leetcode&#32;*submission
 
 - Assignment\_1\_Optimal\_Cost\_of\_Binary\_Search\_Tree
 - Assignment\_2\_Maximum\_Bitonic\_Sequence\_in\_an\_Array
-- **Term\_Research\_Paper**
+- ***Term\_Research\_Paper***
 
 ### Leetcode\_Problems
 
@@ -89,9 +89,9 @@ Each directory corresponds to an individual course (or *Leetcode&#32;*submission
 
 Unless otherwise noted, all content in this repository is covered under the following license;
 
-    CSCI Undergrad (BSc) Portfolio
+CSCI Undergrad (BSc) Portfolio
 
-    Copyright (C) 2026  Patrick McGrath
+Copyright (C) 2026  Patrick McGrath
 
 This program is free software: you can redistribute it and/or modify
 
