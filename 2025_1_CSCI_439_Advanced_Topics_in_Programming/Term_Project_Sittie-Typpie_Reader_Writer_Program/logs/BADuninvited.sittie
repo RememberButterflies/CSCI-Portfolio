@@ -1,0 +1,8 @@
+{{ LGN U000
+{{ E000 MSG "the_SPACE_next_SPACE_user_SPACE_was_SPACE_never_SPACE_invited"
+}}
+}}
+{{ LGN U999
+{{ E001 MSG "this_SPACE_message_SPACE_will_SPACE_not_SPACE_be_SPACE_read"
+}}
+}}

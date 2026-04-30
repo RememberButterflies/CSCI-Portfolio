@@ -1,0 +1,42 @@
+{{ LGN U000
+{{ E000 MSG "So_SPACE_tell_SPACE_me_SPACE_what_SPACE_you_SPACE_want,_SPACE_what_SPACE_you_SPACE_really,_SPACE_really_SPACE_want"
+}}
+{{ E001 INV U001
+}}
+}}
+{{ LGN U001
+{{ E002 RSP E000 "I_SPACE_wanna"
+}}
+}}
+{{ LGN U000
+{{ E003 RSP E002 "hey!"
+}}
+}}
+{{ LGN U001
+{{ E004 RSP E000 "I_SPACE_wanna"
+}}
+}}
+{{ LGN U000
+{{ E005 RSP E004 "hey!"
+}}
+}}
+{{ LGN U001
+{{ E006 RSP E000 "I_SPACE_wanna"
+}}
+}}
+{{ LGN U000
+{{ E007 RSP E006 "hey!"
+}}
+}}
+{{ LGN U001
+{{ E008 RSP E000 "I_SPACE_wanna"
+}}
+}}
+{{ LGN U000
+{{ E009 RSP E008 "hey!"
+}}
+}}
+{{ LGN U001
+{{ E010 RSP E000 "I_SPACE_wanna_SPACE_really,_SPACE_really,_SPACE_really_SPACE_wanna_SPACE_zig-a-zig,_SPACE_ah"
+}}
+}}

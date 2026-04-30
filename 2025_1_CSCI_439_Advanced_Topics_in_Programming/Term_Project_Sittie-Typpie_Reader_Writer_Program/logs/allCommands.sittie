@@ -1,0 +1,42 @@
+{{ LGN U000
+{{ E000 MSG "this_SPACE_log_SPACE_should_SPACE_show_SPACE_examples_SPACE_of_SPACE_every_SPACE_command"
+}}
+{{ E001 MSG "message_SPACE_is_SPACE_done,_SPACE_event_SPACE_next"
+}}
+{{ E002 VNT "all_SPACE_fields_SPACE_not_SPACE_blank" "not_SPACE_blank" "also_SPACE_not_SPACE_blank"
+}}
+{{ E003 VNT "both_SPACE_of_SPACE_these_SPACE_fields_SPACE_will_SPACE_be_SPACE_blank" BLNK BLNK
+}}
+{{ E004 MSG "invite_SPACE_2_SPACE_new_SPACE_members,_SPACE_1_SPACE_is_SPACE_neighbor_SPACE_number,_SPACE_other_SPACE_is_SPACE_distant,_SPACE_one_SPACE_is_SPACE_invited_SPACE_once,_SPACE_another_SPACE_twice"
+}}
+{{ E005 INV U001
+}}
+{{ E006 INV U500
+}}
+{{ E007 INV U500
+}}
+{{ E008 MSG "response_SPACE_is_SPACE_from_SPACE_member_SPACE_500"
+}}
+}}
+{{ LGN U500
+{{ E009 RSP E007 "message_SPACE_repsonse_SPACE_to_SPACE_being_SPACE_invited_SPACE_twice"
+}}
+{{ E010 MSG "u_SPACE_001_SPACE_will_SPACE_do_SPACE_other_SPACE_responses"
+}}
+}}
+{{ LGN U001
+{{ E011 RSP E005 TMUP
+}}
+{{ E012 RSP E005 TMDN
+}}
+{{ E013 RSP E005 SMFL
+}}
+{{ E014 MSG "first_SPACE_user_SPACE_will_SPACE_log_SPACE_in_SPACE_and_SPACE_out_SPACE_a_SPACE_couple_SPACE_times"
+}}
+}}
+{{ LGN U000
+}}
+{{ LGN U000
+}}
+{{ LGN U000
+}}

@@ -1,0 +1,6 @@
+{{ LGN U000
+{{ E000 MSG "the_SPACE_subsequent_SPACE_response_SPACE_will_SPACE_be_SPACE_to_SPACE_an_SPACE_entry_SPACE_that_SPACE_doesnt_SPACE_exist"
+}}
+{{ E001 RSP E999 "this_SPACE_shouldnt_SPACE_work"
+}}
+}}

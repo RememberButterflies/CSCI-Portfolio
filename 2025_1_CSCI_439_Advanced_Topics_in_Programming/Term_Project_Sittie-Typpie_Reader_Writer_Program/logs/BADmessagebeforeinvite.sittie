@@ -1,0 +1,12 @@
+{{ LGN U000
+{{ E000 MSG "the_SPACE_following_SPACE_user_SPACE_will_SPACE_send_SPACE_a_SPACE_message_SPACE_then_SPACE_i_SPACE_will_SPACE_invite_SPACE_them"
+}}
+}}
+{{ LGN U999
+{{ E001 MSG "this_SPACE_message_SPACE_shouldnt_SPACE_work"
+}}
+}}
+{{ LGN U000
+{{ E002 INV U999
+}}
+}}
