@@ -16,7 +16,12 @@ My name is Patrick McGrath. I recently finished all my course work for my BSc in
 
 ## Table of Contents
 
-Each directory corresponds to an individual course (or *Leetcode&#32;*submissions). In this table of contents, items I will like to highlight are ***listed in bold italics*.**
+Each directory corresponds to an individual course (or *Leetcode&#32;*submissions).
+
+### Highlights
+- CSCI 370 ***[Term\_Project\_Rideshare\_Database\_Program\_in\_Cpp\_and\_Oracle\_SQL](https://github.com/RememberButterflies/CSCI-Portfolio/tree/main/2025_1_CSCI_370_Database_Systems/Term_Project_Rideshare_Database_Program_in_Cpp_and_Oracle_SQL)***
+- CSCI 439 ***[Term\_Project\_Sittie-Typpie\_Reader\_Writer\_Program](https://github.com/RememberButterflies/CSCI-Portfolio/tree/main/2025_1_CSCI_439_Advanced_Topics_in_Programming/Term_Project_Sittie-Typpie_Reader_Writer_Program)***
+- CSCI 429 ***[Term\_Research\_Paper](https://github.com/RememberButterflies/CSCI-Portfolio/blob/main/2025_2_CSCI_429_Advanced_Topics_in_Algorithms_and_Complexity/Term_Research_Paper/Two%20Scheduling%20Algorithms%20for%20Two-Processor%20Systems%20in%20Exponential%20and%20Near%20Linear%20Running%20Time%20-%20Patrick%20McGrath%202025.pdf)***
 
 ### 2023\_2\_CSCI\_260\_Data\_Structures
 
