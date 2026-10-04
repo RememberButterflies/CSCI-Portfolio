@@ -55,11 +55,11 @@ Each directory corresponds to an individual course (or *Leetcode&#32;*submission
 
 - Assignment\_7\_Package\_Ordering\_Database\_Program\_in\_Cpp\_and\_Oracle\_SQL
 - Assignment\_8\_Package\_Ordering\_Database\_Summary\_Report\_Program\_in\_Cpp\_and\_Oracle\_SQL
-- ***Term\_Project\_Rideshare\_Database\_Program\_in\_Cpp\_and\_Oracle\_SQL***
+- ***[Term\_Project\_Rideshare\_Database\_Program\_in\_Cpp\_and\_Oracle\_SQL](https://github.com/RememberButterflies/CSCI-Portfolio/tree/main/2025_1_CSCI_370_Database_Systems/Term_Project_Rideshare_Database_Program_in_Cpp_and_Oracle_SQL)***
 
 ### 2025\_1\_CSCI\_439\_Advanced\_Topics\_in\_Programming
 
-- ***Term\_Project\_Sittie-Typpie\_Reader\_Writer\_Program***
+- ***[Term\_Project\_Sittie-Typpie\_Reader\_Writer\_Program](https://github.com/RememberButterflies/CSCI-Portfolio/tree/main/2025_1_CSCI_439_Advanced_Topics_in_Programming/Term_Project_Sittie-Typpie_Reader_Writer_Program)***
 
 ### 2025\_1\_CSCI\_460\_Networks\_and\_Communications
 
@@ -70,7 +70,7 @@ Each directory corresponds to an individual course (or *Leetcode&#32;*submission
 
 - Assignment\_1\_Optimal\_Cost\_of\_Binary\_Search\_Tree
 - Assignment\_2\_Maximum\_Bitonic\_Sequence\_in\_an\_Array
-- ***Term\_Research\_Paper***
+- ***[Term\_Research\_Paper](https://github.com/RememberButterflies/CSCI-Portfolio/blob/main/2025_2_CSCI_429_Advanced_Topics_in_Algorithms_and_Complexity/Term_Research_Paper/Two%20Scheduling%20Algorithms%20for%20Two-Processor%20Systems%20in%20Exponential%20and%20Near%20Linear%20Running%20Time%20-%20Patrick%20McGrath%202025.pdf)***
 
 ### Leetcode\_Problems
 
